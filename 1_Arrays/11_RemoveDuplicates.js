@@ -27,3 +27,5 @@ var removeDuplicates = function(nums) {
     }
     return i+1;
 };
+
+// Time complexity: O(n)
